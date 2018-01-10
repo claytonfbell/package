@@ -1,0 +1,21 @@
+{
+    "name": "claytonfbell/package",
+    "description": "Just a simple hello-world sample",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Clayton Bell",
+            "email": "claytonfbell@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
