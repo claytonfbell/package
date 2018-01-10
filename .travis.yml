@@ -3,4 +3,4 @@ php:
   - 5.6
 # script: phpunit
 
-# before_script: composer install
+before_script: composer install
