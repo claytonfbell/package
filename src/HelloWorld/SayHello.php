@@ -6,6 +6,6 @@ class SayHello
 {
     public static function world()
     {
-        return 'My 1.1 tag';
+        return 'My 1.1.2 fix tag';
     }
 }
