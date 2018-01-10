@@ -4,8 +4,8 @@ namespace HelloWorld;
 
 class SayHello
 {
-    public static function world()
+    public static function World()
     {
-        return 'My 1.1 tag';
+        return 'My version 2, breaking change!!!';
     }
 }
