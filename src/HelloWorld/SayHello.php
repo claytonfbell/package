@@ -6,6 +6,6 @@ class SayHello
 {
     public static function world()
     {
-        return 'My first update!';
+        return 'My first stable version!';
     }
 }
